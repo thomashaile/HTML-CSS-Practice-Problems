@@ -8,18 +8,18 @@
 
 .content-mid-header {
     background: #444;
-    width: auto;
+    width: 60%;
     height: 20%
 }
 
 .content-container {
-  width: auto;
+  width: 60%;
   height: 100%;
 }
 
 .content {
   background: #D8D8D8;
-  width: auto;
+  width: 55%;
   height: 80%;
   background: #D8D8D8;
   padding: 20px;
