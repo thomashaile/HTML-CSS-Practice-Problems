@@ -3,13 +3,13 @@
 
 
 .content-mid {
-  padding: 80px;
+  padding: 80px 80px 80px 80px;
 }
 
 .content-mid-header {
     background: #444;
     width: 60%;
-    height: 20%
+    height: 20%;
 }
 
 .content-container {
