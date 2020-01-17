@@ -21,7 +21,7 @@
 .content-mid {
     width: 66%;
     /* This height is a placeholder. You will need to make some adjustments to get this container to look like the design. */
-    height: auto;
+    height: 550px;
     background: #B0B0B0;
     float: right; 
 }
