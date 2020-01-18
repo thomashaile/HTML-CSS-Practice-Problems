@@ -31,8 +31,8 @@
 }
 /* Step-2 You can either use float left to get this element to in the desired location. */
 .logo-container {
-    background: #light-blue;
-    color: #white;
+    background: #4f4949;
+    color: #ffffff;
     height: 100%;
     width: 200px;
     float: left;
