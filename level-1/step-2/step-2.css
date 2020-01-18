@@ -31,9 +31,8 @@
 }
 /* Step-2 You can either use float left to get this element to in the desired location. */
 .logo-container {
-    background-image: url("https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Octicons-mark-github.svg/1200px-Octicons-mark-github.svg.png");
-    /*background: #4F4949;*/
-    color: #ffffff;
+   background: light-blue;
+    color: white;
     height: 100%;
     width: 200px;
     float: left;
