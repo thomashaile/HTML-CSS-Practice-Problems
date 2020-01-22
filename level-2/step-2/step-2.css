@@ -1,11 +1,15 @@
 /* Step-2 add a text-align that will align items in the center.  */
 .main-bottom-section {
   margin-top: 65px;
+  text-align: center; /* i added text align to center here*/
   /* alignment property */
 }
 
 /* Step-2 Add a width, height and display property to make these containers look like the design. */
 .item {
+    width: 80%;
+    height: 180px;
+    display: inline-block;
    /*width*/
     /*height*/
     /*display*/
@@ -16,6 +20,8 @@
 
 /* Step-2 Add a width, height, and margin property to make these containers look like the design. Remember margin: auto is helpful when trying to center a container. */
 .full-width-item {
+    width: 80%;
+    height: 180px;
     /*width*/
     /*height*/
     /*margin*/
@@ -25,6 +31,9 @@
 
 /* Step-2 Add a width, height, and margin property to make these containers look like the design. Remember margin: auto is helpful when trying to center a container. */
 .large-item {
+    width: 80%;
+    height: 450px;
+    margin: 0 auto 30px;
     /*width*/
     /*height*/
     /*margin*/
